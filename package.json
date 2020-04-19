@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@cybozu/eslint-config": "^10.0.1",
-    "@kintone/customize-uploader": "^3.0.1",
+    "@cybozu/eslint-config": "^10.0.2",
+    "@kintone/customize-uploader": "^3.0.3",
     "eslint": "^6.8.0",
     "local-web-server": "^4.0.0",
-    "prettier": "^1.19.1"
+    "prettier": "^2.0.4"
   }
 }
